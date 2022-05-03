@@ -37,7 +37,7 @@
     "helsingborg-stad/municipio": "~1.33.6",
     "helsingborg-stad/readspeaker-helper": "~2.0.0",
     "wpackagist-plugin/disable-comments": "^1.11.0",
-    "wpackagist-plugin/disable-gutenberg": "2.2",
+    "wpackagist-plugin/disable-gutenberg": "^2.2",
     "wpackagist-plugin/disable-wordpress-updates": "^1.6",
     "wpackagist-plugin/redirection": "^4.7",
     "wpackagist-plugin/user-switching": "^1.5",
